@@ -4,5 +4,5 @@ A simple Image to Text to Speech Android Application using Java in Android Studi
 Download and Install Orator.apk to use the app.
 
 Contributers:
-Sambit-X (Myself)
+Sambit-X
 sikta-roy
