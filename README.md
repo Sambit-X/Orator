@@ -1,6 +1,7 @@
 
 <h1 align="center">Orator</h1>
 
+
 ## <a name="introduction">🤖 Introduction</a>
 
 Orator is an Android app that converts text in images to text that can be copied to clipboard or converted to speech according to the user's choice. It uses optical character recognition (OCR) technology to recognize text in images, convert it to digital text, and use text-to-speech (TTS) technology to read the text aloud.
